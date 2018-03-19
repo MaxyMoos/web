@@ -21,7 +21,7 @@
 
 {
     'name': 'Tags multiple selection',
-    'version': '10.0.1.0.0',
+    'version': '11.0.1.0.0',
     'author': 'Akretion, Odoo Community Association (OCA), Jamin Shah',
     'depends': [
         'web',
@@ -31,6 +31,7 @@
     'data': [
         'views/web_widget_many2many_tags_multi_selection.xml',
     ],
+    'license': 'AGPL-3',
     'installable': True,
     'auto_install': False,
 }

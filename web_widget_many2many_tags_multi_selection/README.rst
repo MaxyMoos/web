@@ -8,7 +8,7 @@ This module adds a checkbox to this list so multiple entries can be selected at 
 Installation
 ============
 
-It was tested on Odoo 10.0 branch.
+It was tested on Odoo 11.0 branch.
 
 
 Bug Tracker
@@ -17,7 +17,7 @@ Bug Tracker
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/web/issues>`_.
 In case of trouble, please check there if your issue has already been reported.
 If you spotted it first, help us smashing it by providing a detailed and welcomed feedback
-`here <https://github.com/OCA/web/issues/new?body=module:%20web_widget_many2many_tags_multi_selection%0Aversion:%208.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
+`here <https://github.com/OCA/web/issues/new?body=module:%20web_widget_many2many_tags_multi_selection%0Aversion:%2011.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
 
 
 Credits
@@ -30,6 +30,7 @@ Contributors
 
 * Sylvain Calador <sylvain.calador@akretion.com>
 * Jamin Shah <jaiminshah2009@gmail.com>
+* Maxence Groine <mgroine@fiefmanage.ch>
 
 Maintainer
 ----------
